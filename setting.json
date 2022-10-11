@@ -1,0 +1,44 @@
+{
+    "title": "李の主页",
+    "description": "一个默默无闻的主页",
+    "keywords": "个人主页",
+    "author": "Hammer",
+    "logo_img": "./img/icon/logo.png",
+    "logo_text_1": "lo",
+    "logo_text_2": "td",
+    "github": "Ham0mer",
+    "email": "i@lo.td",
+    "telegram": "yuan_shop",
+    "link_1": [
+        "https://blog.lo.td/",
+        "fa-solid fa-blog",
+        "博客"
+    ],
+    "link_2": [
+        "https://drive.imsyy.top/",
+        "fa-solid fa-cloud",
+        "网盘"
+    ],
+    "link_3": [
+        "https://music.imsyy.top/",
+        "fa-solid fa-music",
+        "音乐"
+    ],
+    "link_4": [
+        "https://nav.imsyy.top/",
+        "fa-solid fa-compass",
+        "起始页"
+    ],
+    "link_5": [
+        "https://web.imsyy.top/",
+        "fa-solid fa-book-bookmark",
+        "网址集"
+    ],
+    "link_6": [
+        "https://lab.imsyy.top/",
+        "fa-solid fa-flask",
+        "实验室"
+    ],
+    "Copyright_text": "LO.TD",
+    "beian": ""
+}
