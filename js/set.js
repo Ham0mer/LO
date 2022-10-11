@@ -1,10 +1,3 @@
-/*
-作者: imsyy
-主页：https://www.imsyy.top/
-GitHub：https://github.com/imsyy/home
-版权所有，请勿删除
-*/
-
 /* 自定义配置 */
 /* 尚未完善 */
 $(function () {

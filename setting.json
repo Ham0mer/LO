@@ -16,28 +16,28 @@
     ],
     "link_2": [
         "https://file.lo.td/",
-        "fa-solid fa-cloud",
+        "fa-solid fa-file",
         "文件"
     ],
     "link_3": [
-        "https://music.imsyy.top/",
-        "fa-solid fa-music",
-        "音乐"
+        "https://server.lo.td",
+        "fa fa-window-restore",
+        "监控"
     ],
     "link_4": [
-        "https://nav.imsyy.top/",
-        "fa-solid fa-compass",
-        "起始页"
+        "https://login.fan",
+        "fa-brands fa-qq",
+        "聚合登录"
     ],
     "link_5": [
-        "https://web.imsyy.top/",
+        "#",
         "fa-solid fa-book-bookmark",
-        "网址集"
+        "待添加"
     ],
     "link_6": [
-        "https://lab.imsyy.top/",
+        "#",
         "fa-solid fa-flask",
-        "实验室"
+        "待添加"
     ],
     "Copyright_text": "LO.TD",
     "beian": ""
