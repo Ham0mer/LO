@@ -43,7 +43,7 @@ $(function () {
             $('#link-name-6').html(data.link_6[2]);
             //页脚版权
             $('#power-text').html(data.Copyright_text);
-            $('#beian').html("&amp;&nbsp;" + data.beian);
+            $('#beian').html(data.beian);
         }
     )
 });
