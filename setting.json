@@ -20,19 +20,19 @@
         "文件"
     ],
     "link_3": [
-        "https://server.lo.td",
-        "fa fa-window-restore",
-        "监控"
-    ],
-    "link_4": [
         "https://login.fan",
         "fa-brands fa-qq",
         "聚合登录"
     ],
+    "link_4": [
+        "https://server.lo.td",
+        "fa fa-window-restore",
+        "监控"
+    ],
     "link_5": [
-        "#",
-        "fa-solid fa-book-bookmark",
-        "待添加"
+        "https://t.me/lsstatus_bot",
+        "fa-solid fa-robot",
+        "E5续订bot"
     ],
     "link_6": [
         "#",
